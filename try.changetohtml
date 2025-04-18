@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pertemuan Ke 1</title>
+</head>
+<body align="center">
+    <h1>BIODATA DIRI</h1>
+    <table border="1" align="center" cellpadding="5">
+        <tr>
+            <th rowspan="6"><img src="dencu.jpeg" width="200"></th>
+            <th colspan="1" bgcolor="yellow">Data</th>
+            <th colspan="2" bgcolor="yellow">Keterangan</th>
+        </tr>
+        <tr>
+            <td>Nama</td>
+            <td>Dennes Zaki Azizan</td>
+          </tr>
+          <tr>
+            <td>Alamat</td>
+            <td>Bandar Lampung</td>
+          </tr>
+          <tr>
+            <td>No HP</td>
+            <td>082280100926</td>
+          </tr>
+          <tr>
+            <td>Kampus</td>
+            <td>Umitra</td>
+          </tr>
+          <tr>
+            <td>Prodi</td>
+            <td>Sistem Informasi</td>
+          </tr>
+    </table>
+</body>
+</html>
